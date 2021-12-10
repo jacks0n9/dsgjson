@@ -1,4 +1,4 @@
-# DsgJson - Convert json files to discord bots
+# DsgJson - Convert json files to discord bots (torevalds approved)
 ## How to use
 ```
 dsgjson bot.json
